@@ -9,8 +9,6 @@
 - 📫 How to reach me **golammoula287gmail.com**
   
 
-
-<h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://web.facebook.com/golam.moula.798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/golam.moula.798" height="30" width="40" /></a>
@@ -26,14 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golammoula287&" alt="golammoula287" /></p>
 Add White background in Language tool and make width 35 and use 10px padding 
-</p>
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=golammoula287&show_icons=true&locale=en&layout=compact" alt="golammoula287" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=golammoula287&show_icons=true&locale=en" alt="golammoula287" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golammoula287&" alt="golammoula287" /></p>
