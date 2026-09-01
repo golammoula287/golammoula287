@@ -1,221 +1,175 @@
 <div align="center">
 
-<img src="https://github.com/golammoula287/golammoula287/blob/main/Github%20Banner.png" width="100%" alt="Golam Moula Banner"/>
+<img src="https://github.com/golammoula287/golammoula287/blob/main/Github%20Banner.png" width="100%" alt="Golam Moula"/>
 
 # Golam Moula
 
-### Full-Stack Developer · Data Science · Machine Learning
+### Full Stack Developer · Data Science · Machine Learning
 
-Building web applications, intelligent systems, and data-driven solutions.
+Building modern web applications, APIs, and data-driven systems.
 
 <p>
-  <a href="mailto:golammoula287@gmail.com">
-    <img src="https://img.shields.io/badge/Email-golammoula287%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/golammoula287">
-    <img src="https://img.shields.io/badge/GitHub-golammoula287-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="mailto:golammoula287@gmail.com">Email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/golammoula287">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://leetcode.com/">LeetCode</a>
 </p>
 
 </div>
 
 ---
 
-## About
+## Technical Profile
 
-I am a developer from Bangladesh working across **full-stack development, data science, and machine learning**.
-
-My work focuses on building practical applications, developing data-driven solutions, and experimenting with machine learning and computer vision.
-
-I enjoy working on projects that combine software engineering with intelligent systems.
+```text
+Frontend        React.js · Next.js · TypeScript · JavaScript · Redux Toolkit
+UI              Tailwind CSS · Bootstrap · HTML5 · CSS3 · Responsive Design
+Backend         Node.js · Express.js · REST APIs · JWT · Authentication
+Databases       MongoDB · PostgreSQL · MySQL · Mongoose · Prisma
+Programming     TypeScript · JavaScript · Python · C · C++ · SQL
+Data Science    NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn
+ML              EDA · Statistical Analysis · Predictive Modelling · Classification
+Computer Vision OpenCV · Image Processing · Image-based ML
+DevOps          Docker · Git · GitHub Actions · Vercel · Netlify
+Tools           Postman · Firebase · Linux · Jira · Trello
+```
 
 ---
 
-## Tech Stack
+## Development
 
-<div align="center">
+### Frontend Engineering
 
-### Development
+* React.js and Next.js application development
+* TypeScript and modern JavaScript
+* Component-based UI architecture
+* Redux Toolkit for state management
+* Tailwind CSS and Bootstrap
+* Responsive web application development
+* API integration and frontend data handling
 
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>
-React
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>
-Node.js
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/><br/>
-Express
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>
-MongoDB
-</td>
-</tr>
+### Backend Engineering
 
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>
-JavaScript
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>
-HTML5
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>
-CSS3
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br/>
-Tailwind
-</td>
-</tr>
-</table>
+* Node.js and Express.js
+* REST API development
+* JWT-based authentication
+* Role-based access control
+* API architecture and middleware
+* Third-party API integration
+* Database schema and data modelling
 
-### Data Science & AI
+### Database
 
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br/>
-Python
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br/>
-NumPy
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br/>
-Pandas
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/><br/>
-OpenCV
-</td>
-</tr>
+* MongoDB with Mongoose
+* PostgreSQL
+* MySQL
+* Prisma ORM
+* Relational and document-based data modelling
+* CRUD operations and database integration
 
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br/>
-Jupyter
-</td>
-<td align="center">
-Machine Learning
-</td>
-<td align="center">
-Computer Vision
-</td>
-<td align="center">
-NLP
-</td>
-</tr>
-</table>
+### DevOps & Deployment
 
-</div>
+* Git and GitHub
+* Docker containerization
+* GitHub Actions
+* CI/CD fundamentals
+* Vercel deployment
+* Netlify deployment
+* Environment configuration
+* Production API and frontend deployment
+
+---
+
+## Data Science & Machine Learning
+
+### Data Analysis
+
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn`
+
+* Exploratory Data Analysis
+* Data preprocessing
+* Statistical analysis
+* Data visualization
+* Feature analysis
+* Dataset preparation
+
+### Machine Learning
+
+`Scikit-learn` · `Python`
+
+* Classification
+* Regression
+* Predictive modelling
+* Survival analysis
+* Model evaluation
+* Feature engineering
+
+### Computer Vision
+
+`OpenCV` · `Python`
+
+* Image preprocessing
+* Image analysis
+* Image classification
+* Dataset preparation
+* Computer vision pipelines
+
+### Natural Language Processing
+
+* Text classification
+* Bengali NLP
+* LLM evaluation
+* Hallucination detection
 
 ---
 
 ## Selected Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### Inventory Management System
 
-A full-stack business management system for products, inventory, sales, customers, invoices, vehicles and storage management.
+Full-stack business management application with inventory, sales, customers, invoices, vehicles, and storage management.
 
 **React · Node.js · Express · MongoDB**
 
-</td>
-
-<td width="50%">
-
 ### Historical Coin Classification
 
-A computer vision project focused on identifying and classifying historical coins using image-based machine learning.
+Computer vision and machine learning pipeline for image-based historical coin classification and dataset analysis.
 
-**Python · Machine Learning · OpenCV**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+**Python · OpenCV · Machine Learning**
 
 ### Bengali LLM Hallucination Detection
 
-A machine learning project focused on detecting hallucinated responses in Bengali language models.
+NLP and machine learning project for detecting hallucinated responses in Bengali language models.
 
 **Python · NLP · Machine Learning**
 
-</td>
+---
 
-<td width="50%">
+## GitHub Stats
 
-### More Projects
+<div align="center">
 
-Explore my GitHub repositories for additional web development, data science, machine learning and experimental projects.
+<img src="https://github-readme-stats.vercel.app/api?username=golammoula287&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="145"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golammoula287&layout=compact&hide_border=true&langs_count=6" height="145"/>
+
+</div>
+
+---
+
+<div align="center">
 
 <a href="https://github.com/golammoula287?tab=repositories">
-View Repositories →
+View My Repositories
 </a>
 
-</td>
-</tr>
-</table>
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=golammoula287&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golammoula287&layout=compact&hide_border=true&langs_count=8" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=golammoula287&hide_border=true"/>
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/golammoula287">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.facebook.com/golam.moula.798">
-<img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/gmrakib2001/">
-<img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br/><br/>
+  ·  
 
 <a href="mailto:golammoula287@gmail.com">
-golammoula287@gmail.com
+Contact Me
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=golammoula287&label=Profile%20Views&style=flat-square"/>
 
 </div>
