@@ -1,214 +1,170 @@
 <div align="center">
 
-<img src="https://github.com/golammoula287/golammoula287/blob/main/Github%20Banner.png" width="100%" alt="Golam Moula"/>
+<img src="https://github.com/golammoula287/golammoula287/blob/main/Github%20Banner.png" width="100%" alt="Golam Moula Banner"/>
 
-<br>
+# Golam Moula
 
-# GOLAM MOULA
+### Full-Stack Developer · Data Science · Machine Learning
 
-### Full Stack Developer | Data Science | Machine Learning
+Building web applications, intelligent systems, and data-driven solutions.
 
-Building scalable web applications, APIs, and intelligent data-driven solutions.
-
-<br>
-
-<a href="https://github.com/golammoula287">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:golammoula287@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  <a href="mailto:golammoula287@gmail.com">
+    <img src="https://img.shields.io/badge/Email-golammoula287%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/golammoula287">
+    <img src="https://img.shields.io/badge/GitHub-golammoula287-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## TECHNICAL STACK
+## About
 
-### Languages
+I am a developer from Bangladesh working across **full-stack development, data science, and machine learning**.
 
-<div align="center">
+My work focuses on building practical applications, developing data-driven solutions, and experimenting with machine learning and computer vision.
 
-<a href="#"><img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,sql" /></a>
-
-</div>
-
-### Frontend
-
-<div align="center">
-
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css" /></a>
-
-</div>
-
-### Backend & APIs
-
-<div align="center">
-
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,postman" /></a>
-
-</div>
-
-### Databases
-
-<div align="center">
-
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" /></a>
-
-</div>
-
-### Data Science & Machine Learning
-
-<div align="center">
-
-<a href="#"><img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,opencv,jupyter" /></a>
-
-</div>
-
-### DevOps & Tools
-
-<div align="center">
-
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vercel,linux,firebase" /></a>
-
-</div>
+I enjoy working on projects that combine software engineering with intelligent systems.
 
 ---
 
-## ENGINEERING FOCUS
+## Tech Stack
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### Full Stack Development
-
-* React / Next.js applications
-* TypeScript & modern JavaScript
-* REST API architecture
-* JWT authentication
-* Role-based access control
-* State management with Redux Toolkit
-* Responsive UI development
-
-</td>
-
-<td width="50%" valign="top">
-
-### Backend Engineering
-
-* Node.js / Express.js
-* API design & integration
-* MongoDB / PostgreSQL / MySQL
-* Mongoose / Prisma
-* Database modelling
-* Third-party API integration
-* Production deployment
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Data Science & ML
-
-* Data preprocessing
-* Exploratory Data Analysis
-* Statistical analysis
-* Feature engineering
-* Predictive modelling
-* Classification
-* Survival analysis
-
-</td>
-
-<td width="50%" valign="top">
-
-### Computer Vision & AI
-
-* Image preprocessing
-* Image classification
-* Computer vision pipelines
-* Dataset preparation
-* NLP
-* Bengali language modelling
-* LLM evaluation
-
-</td>
-</tr>
-</table>
-
----
-
-## FEATURED PROJECTS
+### Development
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>
+React
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>
+Node.js
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/><br/>
+Express
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>
+MongoDB
+</td>
+</tr>
 
-<h3>Inventory Management System</h3>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>
+JavaScript
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>
+HTML5
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>
+CSS3
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br/>
+Tailwind
+</td>
+</tr>
+</table>
 
-A complete business management platform covering inventory, sales, customers, invoices, vehicles and storage management.
+### Data Science & AI
 
-<br>
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br/>
+Python
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br/>
+NumPy
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br/>
+Pandas
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/><br/>
+OpenCV
+</td>
+</tr>
 
-<b>React · Node.js · Express · MongoDB</b>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br/>
+Jupyter
+</td>
+<td align="center">
+Machine Learning
+</td>
+<td align="center">
+Computer Vision
+</td>
+<td align="center">
+NLP
+</td>
+</tr>
+</table>
 
-<br><br>
+</div>
 
-<a href="https://github.com/golammoula287?tab=repositories">View Project →</a>
+---
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Inventory Management System
+
+A full-stack business management system for products, inventory, sales, customers, invoices, vehicles and storage management.
+
+**React · Node.js · Express · MongoDB**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-<h3>Historical Coin Classification</h3>
+### Historical Coin Classification
 
-Computer vision and machine learning pipeline for historical coin image classification and dataset analysis.
+A computer vision project focused on identifying and classifying historical coins using image-based machine learning.
 
-<br>
-
-<b>Python · OpenCV · Machine Learning</b>
-
-<br><br>
-
-<a href="https://github.com/golammoula287?tab=repositories">View Project →</a>
+**Python · Machine Learning · OpenCV**
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-<h3>Bengali LLM Hallucination Detection</h3>
+### Bengali LLM Hallucination Detection
 
-NLP and machine learning system designed to detect hallucinated responses in Bengali language models.
+A machine learning project focused on detecting hallucinated responses in Bengali language models.
 
-<br>
-
-<b>Python · NLP · Machine Learning</b>
-
-<br><br>
-
-<a href="https://github.com/golammoula287?tab=repositories">View Project →</a>
+**Python · NLP · Machine Learning**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-<h3>More Projects</h3>
+### More Projects
 
-Explore my repositories for additional full-stack, machine learning, data science and experimental projects.
+Explore my GitHub repositories for additional web development, data science, machine learning and experimental projects.
 
-<br><br>
-
-<a href="https://github.com/golammoula287?tab=repositories">Explore Repositories →</a>
+<a href="https://github.com/golammoula287?tab=repositories">
+View Repositories →
+</a>
 
 </td>
 </tr>
@@ -216,45 +172,49 @@ Explore my repositories for additional full-stack, machine learning, data scienc
 
 ---
 
-## DEVELOPMENT WORKFLOW
+## GitHub
 
 <div align="center">
 
-`PLAN` → `DEVELOP` → `TEST` → `CONTAINERIZE` → `DEPLOY`
+<img src="https://github-readme-stats.vercel.app/api?username=golammoula287&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golammoula287&layout=compact&hide_border=true&langs_count=8" height="170"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,githubactions,vercel" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=golammoula287&hide_border=true"/>
 
 </div>
 
 ---
 
-## GITHUB
+## Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=golammoula287&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="140"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golammoula287&layout=compact&hide_border=true&langs_count=6&theme=transparent" height="140"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Let's Build Something
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/golammoula287">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
+<a href="https://www.facebook.com/golam.moula.798">
+<img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/gmrakib2001/">
+<img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 <a href="mailto:golammoula287@gmail.com">
-<img src="https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+golammoula287@gmail.com
 </a>
 
-<br><br>
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=golammoula287&label=Profile%20Views&style=flat-square"/>
 
